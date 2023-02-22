@@ -1,0 +1,2 @@
+This subfolder is based on the video lessons of "codebasic" called "Machine Learning Tutorial Python"
+link:  https://www.youtube.com/@codebasics 
